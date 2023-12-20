@@ -1,3 +1,7 @@
-# git-essentials
+# GIT Essentials / Git for Everybody
 
-New Stuff in Here!!
+This is a course to teach you how to use Git.
+
+Course created
+
+
